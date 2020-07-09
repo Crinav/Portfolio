@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.d52d1657.chunk.css",
-    "main.js": "/Portfolio/static/js/main.294b6c7f.chunk.js",
-    "main.js.map": "/Portfolio/static/js/main.294b6c7f.chunk.js.map",
-    "runtime-main.js": "/Portfolio/static/js/runtime-main.e440ee5a.js",
-    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.e440ee5a.js.map",
-    "static/css/2.4b36e02c.chunk.css": "/Portfolio/static/css/2.4b36e02c.chunk.css",
-    "static/js/2.f197810c.chunk.js": "/Portfolio/static/js/2.f197810c.chunk.js",
-    "static/js/2.f197810c.chunk.js.map": "/Portfolio/static/js/2.f197810c.chunk.js.map",
-    "index.html": "/Portfolio/index.html",
-    "precache-manifest.23e32e67c2c046b946d0dea56ba5d858.js": "/Portfolio/precache-manifest.23e32e67c2c046b946d0dea56ba5d858.js",
-    "service-worker.js": "/Portfolio/service-worker.js",
-    "static/css/2.4b36e02c.chunk.css.map": "/Portfolio/static/css/2.4b36e02c.chunk.css.map",
-    "static/css/main.d52d1657.chunk.css.map": "/Portfolio/static/css/main.d52d1657.chunk.css.map",
-    "static/js/2.f197810c.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.f197810c.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/Portfolio/static/media/texture-background.c9b67ee7.jpg"
+    "main.css": "/static/css/main.54d08a58.chunk.css",
+    "main.js": "/static/js/main.5f4ba748.chunk.js",
+    "main.js.map": "/static/js/main.5f4ba748.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.19ccc7f6.js",
+    "runtime-main.js.map": "/static/js/runtime-main.19ccc7f6.js.map",
+    "static/css/2.4b36e02c.chunk.css": "/static/css/2.4b36e02c.chunk.css",
+    "static/js/2.a23b040c.chunk.js": "/static/js/2.a23b040c.chunk.js",
+    "static/js/2.a23b040c.chunk.js.map": "/static/js/2.a23b040c.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.9270e1abc94a7840e7d6463b9eb31460.js": "/precache-manifest.9270e1abc94a7840e7d6463b9eb31460.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.4b36e02c.chunk.css.map": "/static/css/2.4b36e02c.chunk.css.map",
+    "static/css/main.54d08a58.chunk.css.map": "/static/css/main.54d08a58.chunk.css.map",
+    "static/js/2.a23b040c.chunk.js.LICENSE.txt": "/static/js/2.a23b040c.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/texture-background.c9b67ee7.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e440ee5a.js",
+    "static/js/runtime-main.19ccc7f6.js",
     "static/css/2.4b36e02c.chunk.css",
-    "static/js/2.f197810c.chunk.js",
-    "static/css/main.d52d1657.chunk.css",
-    "static/js/main.294b6c7f.chunk.js"
+    "static/js/2.a23b040c.chunk.js",
+    "static/css/main.54d08a58.chunk.css",
+    "static/js/main.5f4ba748.chunk.js"
   ]
 }
