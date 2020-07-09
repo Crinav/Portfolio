@@ -6,11 +6,11 @@ export default class Apropos extends Component {
     return (
 
       <section id="apropos" className="apropos">
-        <div class="fixed-bg bg-1">
+        <div className="fixed-bg bg-1">
           <Row>
             <Col>
               <p className="accroche">
-                <h1 class="ml5">
+                <h1 className="ml5">
                   <span class="text-wrapper">
                     <span class="line line1"></span>
                     <span id="prenom" className="letters letters-left">Christophe</span>
@@ -25,7 +25,7 @@ export default class Apropos extends Component {
                 <br />
                 <div className="text" >Cuisinier de formation, et féru/mordu/toqué/épris d'informatique depuis toujours, j'ai enfin décidé de vivre de ma passion et j'ai donc entamé une reconversion professionnellle.<br />
                 </div><br/>
-                <div class="ml2" >Je suis à la recherche d'un contrat de professionalisation d'un an à partir de septembre 2020.</div>
+                <div className="ml2" >Je suis à la recherche d'un contrat de professionalisation d'un an à partir de septembre 2020.</div>
               </p>
 
             </Col>
