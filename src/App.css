@@ -369,3 +369,6 @@ html,body {
   border: none;
   cursor: pointer;
 }
+footer{
+  text-align: center;
+}
